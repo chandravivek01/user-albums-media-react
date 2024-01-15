@@ -1,10 +1,22 @@
 {
-    "users" : [
-        {
-            "id": 1,
-            "name": "Radha"
-        }
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": "1",
+      "name": "Radha"
+    },
+    {
+      "id": "3be8",
+      "name": "Adriana"
+    },
+    {
+      "id": "d08d",
+      "name": "Braulio"
+    },
+    {
+      "id": "3a01",
+      "name": "Sidney"
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
